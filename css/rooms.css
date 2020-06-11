@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    font-family: "Proxima Nova", serif, sans-serif;
+}
+.header-nav {
+    position: relative;
+}
+.header-image {
+    background: url(../images/header.png) no-repeat top;
+    background-size: cover;
+    background-position: center;
+    
+    height: 100vh;
+    
+}
+
+.header-image h1 {
+    font-family: "Proxima Nova", serif, sans-serif;
+    padding-top: 20%;
+    background: transparent;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 78px;
+    color: #ffffff;
+}
+.header-image p {
+    font-family: "Proxima Nova", serif, sans-serif;
+    background: transparent;
+    font-size: 24px;
+    color: #ffffff;
+}
+.heading h1 {
+    font-family: "Basis Grotesque Pro", serif, sans-serif;
+    font-size: 64px;
+    padding-top: 10%;
+    padding-bottom: 2;
+    
+    font-style: normal;
+}
+.price{
+    font-style: normal;
+    padding-top: 12%;
+    padding-bottom: 5%;
+    font-weight: bold;
+    font-size: 24px;
+
+}
+.hotel-text {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 36px;
+    padding-bottom: 5%;
+}
+.features-header {
+    padding-left: 2%;
+}
+.table-border {
+    border-top: none;
+    padding-left: 2%;
+}
+.btn-position {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: none;
+}
+.book-btn {
+    font-size: 34px;
+    line-height: 41px;
+    font-weight: normal;
+    font-style: normal;
+    color: #155A45;
+    padding: 8px;
+    padding-bottom: 25px;
+    outline: none;
+    border: none;
+    border-bottom: 1.5px solid #155A45;
+}
+.book-btn:active, .book-btn:focus, .book-btn:visited, .book-btn:hover {
+    border-style: outset;
+    outline: none;
+    border: none;
+    border-bottom: 1.5px solid #155A45
+}
+.image {
+    width: 1280px;
+    height: 80vh;
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
+.update-text {
+    text-align: center;
+    padding: 10%;
+}
+.update-text1 {
+    font-family: "Basis Grotesque", serif, sans-serif;
+    font-size: 64px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 75px;
+}
+.update-text2 {
+    font-family: "Basis Grotesque", serif, sans-serif;
+    font-size: 34px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 56px;
+}
+input[type=text], input[type=email] {
+    border:none;
+    border-bottom: 2px solid #155A45;
+    padding: 5px;
+    color: #155A45;
+    margin-bottom: 5px;
+    text-align: center;
+    border-radius: 0;
+    width: 30px;
+}
+.form-submit {
+    width: 10%;
+    background-color: #155A45;
+    color: #ffffff;
+    padding: 5px;
+    padding-top: 10px;
+    border: none;
+}
+.park-text {
+    font-family: 'Basis Grotesque Pro' serif, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    padding: 10%;
+}
+.footer-bg {
+    background-color: #155A45;
+}
+li.item {
+    background-color: #155A45;
+    height: 20vh;
+}
+a.link {
+    color: #ffffff;
+    text-align: center;
+    margin-top: 40px;
+}
+.topnav {
+    background: transparent;
+    
+}
+li.nav-item {
+    background: transparent;
+    padding-top: 30px;
+    
+
+}
+.logo {
+    background: transparent;
+}
+li.nav-link {
+    color: #ffffff;
+}
+
